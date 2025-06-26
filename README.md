@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**nicktressoldi/nicktressoldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Nicolly e sou uma estudante de **Tecnologia da Informação** apaixonada por aprender e evoluir constantemente! 🚀
 
-Here are some ideas to get you started:
+- 💻 Faço todos os meus trabalhos com dedicação e curiosidade.
+- 🌐 Atualmente estou aprendendo **JavaScript**, **HTML** e **CSS**.
+- 📚 Sempre em busca de **novos aprendizados**.
+- 🗣️ Adoro falar e estudar **inglês**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui no meu GitHub, você vai encontrar projetos e estudos que estou desenvolvendo ao longo da minha jornada na programação. Seja bem-vindo(a) e fique à vontade para explorar!
+
+---
+
+✨ _"Cada linha de código é uma chance de aprender algo novo."_
